@@ -5,7 +5,7 @@
 ### autotools
 
 ```
-git clone --recursive https://github.com/tomoyuki-nakabayashi/TDDforEmbeddedC.git
+git clone --recursive https://github.com/aftnoontea/TDDforEmbeddedC.git
 cd TDDforEmbeddedC/
 autoreconf -fi
 ./configure
@@ -18,7 +18,7 @@ make check
 * requirements: cmake 2.8 or later
 
 ```
-git clone https://github.com/tomoyuki-nakabayashi/TDDforEmbeddedC.git
+git clone https://github.com/aftnoontea/TDDforEmbeddedC.git
 cd TDDforEmbeddedC/
 mkdir build
 cd build
